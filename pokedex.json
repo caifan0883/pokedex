@@ -2,6 +2,7 @@
 		"id": "01",
 		"name": "Bulbasaur",
 		"species": "Seed Pokémon",
+		"image":"http://img.pokemondb.net/artwork/bulbasaur.jpg",
 		"type": [
 			"Grass",
 			"Poison"
@@ -31,6 +32,7 @@
 		"id": "02",
 		"name": "Ivysaur",
 		"species": "Seed Pokémon",
+		"image":"http://img.pokemondb.net/artwork/ivysaur.jpg",
 		"type": [
 			"Grass",
 			"Poison"
@@ -60,6 +62,7 @@
 		"id": "03",
 		"name": "Venusaur",
 		"species": "Seed Pokémon",
+		"image":"http://img.pokemondb.net/artwork/venusaur.jpg",		
 		"type": [
 			"Grass",
 			"Poison"
@@ -89,6 +92,7 @@
 		"id": "04",
 		"name": "Charmander",
 		"species": "Lizard Pokémon",
+		"image":"http://img.pokemondb.net/artwork/charmander.jpg",		
 		"type": [
 			"Fire"
 		],
@@ -117,6 +121,7 @@
 		"id": "05",
 		"name": "Charmeleon",
 		"species": "Flame Pokémon",
+		"image":"http://img.pokemondb.net/artwork/charmeleon.jpg",		
 		"type": [
 			"Fire"
 		],
@@ -145,6 +150,7 @@
 		"id": "06",
 		"name": "Charizard",
 		"species": "Flame Pokémon",
+		"image":"http://img.pokemondb.net/artwork/charizard.jpg",		
 		"type": [
 			"Fire",
 			"Flying"
@@ -174,6 +180,7 @@
 		"id": "07",
 		"name": "Squirtle",
 		"species": "Tiny Turtle Pokémon",
+		"image":"http://img.pokemondb.net/artwork/squirtle.jpg",		
 		"type": [
 			"Water"
 		],
@@ -202,6 +209,7 @@
 		"id": "08",
 		"name": "Wartortle",
 		"species": "Turtle Pokémon",
+		"image":"http://img.pokemondb.net/artwork/wartortle.jpg",		
 		"type": [
 			"Water"
 		],
@@ -230,6 +238,7 @@
 		"id": "09",
 		"name": "Blastoise",
 		"species": "Shellfish Pokémon",
+		"image":"http://img.pokemondb.net/artwork/blastoise.jpg",		
 		"type": [
 			"Water"
 		],
@@ -258,6 +267,7 @@
 		"id": "10",
 		"name": "Caterpie",
 		"species": "Worm Pokémon",
+		"image":"http://img.pokemondb.net/artwork/caterpie.jpg",		
 		"type": [
 			"Bug"
 		],
@@ -286,6 +296,7 @@
 		"id": "11",
 		"name": "Metapod",
 		"species": "Cocoon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/metapod.jpg",		
 		"type": [
 			"Bug"
 		],
@@ -313,6 +324,7 @@
 		"id": "12",
 		"name": "Butterfree",
 		"species": "Butterfly Pokémon",
+		"image":"http://img.pokemondb.net/artwork/butterfree.jpg",		
 		"type": [
 			"Bug",
 			"Flying"
@@ -342,6 +354,7 @@
 		"id": "13",
 		"name": "Weedle",
 		"species": "Hairy Bug Pokémon",
+		"image":"http://img.pokemondb.net/artwork/weedle.jpg",		
 		"type": [
 			"Bug",
 			"Poison"
@@ -371,6 +384,7 @@
 		"id": "14",
 		"name": "Kakuna",
 		"species": "Cocoon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/kakuna.jpg",		
 		"type": [
 			"Bug",
 			"Poison"
@@ -399,6 +413,7 @@
 		"id": "15",
 		"name": "Beedrill",
 		"species": "Poison Bee Pokémon",
+		"image":"http://img.pokemondb.net/artwork/beedrill.jpg",		
 		"type": [
 			"Bug",
 			"Poison"
@@ -428,6 +443,7 @@
 		"id": "16",
 		"name": "Pidgey",
 		"species": "Tiny Bird Pokémon",
+		"image":"http://img.pokemondb.net/artwork/pidgey.jpg",		
 		"type": [
 			"Normal",
 			"Flying"
@@ -458,6 +474,7 @@
 		"id": "17",
 		"name": "Pidgeotto",
 		"species": "Bird Pokémon",
+		"image":"http://img.pokemondb.net/artwork/pidgeotto.jpg",		
 		"type": [
 			"Normal",
 			"Flying"
@@ -488,6 +505,7 @@
 		"id": "18",
 		"name": "Pidgeot",
 		"species": "Bird Pokémon",
+		"image":"http://img.pokemondb.net/artwork/pidgeot.jpg",		
 		"type": [
 			"Normal",
 			"Flying"
@@ -518,6 +536,7 @@
 		"id": "19",
 		"name": "Rattata",
 		"species": "Mouse Pokémon",
+		"image":"http://img.pokemondb.net/artwork/rattata.jpg",
 		"type": [
 			"Normal"
 		],
@@ -546,6 +565,7 @@
 		"id": "20",
 		"name": "Raticate",
 		"species": "Mouse Pokémon",
+		"image":"http://img.pokemondb.net/artwork/raticate.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -574,6 +594,7 @@
 		"id": "21",
 		"name": "Spearow",
 		"species": "Tiny Bird Pokémon",
+		"image":"http://img.pokemondb.net/artwork/spearow.jpg",		
 		"type": [
 			"Normal",
 			"Flying"
@@ -602,6 +623,7 @@
 		"id": "22",
 		"name": "Fearow",
 		"species": "Beak Pokémon",
+		"image":"http://img.pokemondb.net/artwork/fearow.jpg",		
 		"type": [
 			"Normal",
 			"Flying"
@@ -630,6 +652,7 @@
 		"id": "23",
 		"name": "Ekans",
 		"species": "Snake Pokémon",
+		"image":"http://img.pokemondb.net/artwork/ekans.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -658,6 +681,7 @@
 		"id": "24",
 		"name": "Arbok",
 		"species": "Cobra Pokémon",
+		"image":"http://img.pokemondb.net/artwork/arbok.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -686,6 +710,7 @@
 		"id": "25",
 		"name": "Pikachu",
 		"species": "Mouse Pokémon",
+		"image":"http://img.pokemondb.net/artwork/pikachu.jpg",		
 		"type": [
 			"Electric"
 		],
@@ -713,6 +738,7 @@
 		"id": "26",
 		"name": "Raichu",
 		"species": "Mouse Pokémon",
+		"image":"http://img.pokemondb.net/artwork/raichu.jpg",		
 		"type": [
 			"Electric"
 		],
@@ -740,6 +766,7 @@
 		"id": "27",
 		"name": "Sandshrew",
 		"species": "Mouse Pokémon",
+		"image":"http://img.pokemondb.net/artwork/sandshrew.jpg",		
 		"type": [
 			"Ground"
 		],
@@ -767,6 +794,7 @@
 		"id": "28",
 		"name": "Sandslash",
 		"species": "Mouse Pokémon",
+		"image":"http://img.pokemondb.net/artwork/sandslash.jpg",		
 		"type": [
 			"Ground"
 		],
@@ -794,6 +822,7 @@
 		"id": "29",
 		"name": "Nidoran♀",
 		"species": "Poison Pin Pokémon",
+		"image":"http://img.pokemondb.net/artwork/nidoran-f.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -823,6 +852,7 @@
 		"id": "30",
 		"name": "Nidorina",
 		"species": "Poison Pin Pokémon",
+		"image":"http://img.pokemondb.net/artwork/nidorina.jpg",
 		"type": [
 			"Poison"
 		],
@@ -852,6 +882,7 @@
 		"id": "31",
 		"name": "Nidoqueen",
 		"species": "Drill Pokémon",
+		"image":"http://img.pokemondb.net/artwork/nidoqueen.jpg",
 		"type": [
 			"Poison",
 			"Ground"
@@ -882,6 +913,7 @@
 		"id": "32",
 		"name": "Nidoran♂",
 		"species": "Poison Pin Pokémon",
+		"image":"http://img.pokemondb.net/artwork/nidoran-m.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -911,6 +943,7 @@
 		"id": "33",
 		"name": "Nidorino",
 		"species": "Poison Pin Pokémon",
+		"image":"http://img.pokemondb.net/artwork/nidorino.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -940,6 +973,7 @@
 		"id": "34",
 		"name": "Nidoking",
 		"species": "Drill Pokémon",
+		"image":"http://img.pokemondb.net/artwork/nidoking.jpg",		
 		"type": [
 			"Poison",
 			"Ground"
@@ -970,6 +1004,7 @@
 		"id": "35",
 		"name": "Clefairy",
 		"species": "Fairy Pokémon",
+		"image":"http://img.pokemondb.net/artwork/clefairy.jpg",		
 		"type": [
 			"Fairy"
 		],
@@ -999,6 +1034,7 @@
 		"id": "36",
 		"name": "Clefable",
 		"species": "Fairy Pokémon",
+		"image":"http://img.pokemondb.net/artwork/clefable.jpg",
 		"type": [
 			"Fairy"
 		],
@@ -1028,6 +1064,7 @@
 		"id": "37",
 		"name": "Vulpix",
 		"species": "Fox Pokémon",
+		"image":"http://img.pokemondb.net/artwork/vulpix.jpg",		
 		"type": [
 			"Fire"
 		],
@@ -1055,6 +1092,7 @@
 		"id": "38",
 		"name": "Ninetales",
 		"species": "Fox Pokémon",
+		"image":"http://img.pokemondb.net/artwork/ninetales.jpg",
 		"type": [
 			"Fire"
 		],
@@ -1082,6 +1120,7 @@
 		"id": "39",
 		"name": "Jigglypuff",
 		"species": "Balloon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/jigglypuff.jpg",
 		"type": [
 			"Normal",
 			"Fairy"
@@ -1111,6 +1150,7 @@
 		"id": "40",
 		"name": "Wigglytuff",
 		"species": "Balloon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/wigglytuff.jpg",
 		"type": [
 			"Normal",
 			"Fairy"
@@ -1140,6 +1180,7 @@
 		"id": "41",
 		"name": "Zubat",
 		"species": "Bat Pokémon",
+		"image":"http://img.pokemondb.net/artwork/zubat.jpg",
 		"type": [
 			"Poison",
 			"Flying"
@@ -1169,6 +1210,7 @@
 		"id": "42",
 		"name": "Golbat",
 		"species": "Bat Pokémon",
+		"image":"http://img.pokemondb.net/artwork/golbat.jpg",
 		"type": [
 			"Poison",
 			"Flying"
@@ -1198,6 +1240,7 @@
 		"id": "43",
 		"name": "Oddish",
 		"species": "Weed Pokémon",
+		"image":"http://img.pokemondb.net/artwork/oddish.jpg",
 		"type": [
 			"Grass",
 			"Poison"
@@ -1227,6 +1270,7 @@
 		"id": "44",
 		"name": "Gloom",
 		"species": "Weed Pokémon",
+		"image":"http://img.pokemondb.net/artwork/gloom.jpg",
 		"type": [
 			"Grass",
 			"Poison"
@@ -1256,6 +1300,7 @@
 		"id": "45",
 		"name": "Vileplume",
 		"species": "Flower Pokémon",
+		"image":"http://img.pokemondb.net/artwork/vileplume.jpg",
 		"type": [
 			"Grass",
 			"Poison"
@@ -1285,6 +1330,7 @@
 		"id": "46",
 		"name": "Paras",
 		"species": "Mushroom Pokémon",
+		"image":"http://img.pokemondb.net/artwork/paras.jpg",
 		"type": [
 			"Bug",
 			"Grass"
@@ -1314,6 +1360,7 @@
 		"id": "47",
 		"name": "Parasect",
 		"species": "Mushroom Pokémon",
+		"image":"http://img.pokemondb.net/artwork/parasect.jpg",
 		"type": [
 			"Bug",
 			"Grass"
@@ -1343,6 +1390,7 @@
 		"id": "48",
 		"name": "Venonat",
 		"species": "Insect Pokémon",
+		"image":"http://img.pokemondb.net/artwork/venonat.jpg",
 		"type": [
 			"Bug",
 			"Poison"
@@ -1372,6 +1420,7 @@
 		"id": "49",
 		"name": "Venomoth",
 		"species": "Poison Moth Pokémon",
+		"image":"http://img.pokemondb.net/artwork/venomoth.jpg",
 		"type": [
 			"Bug",
 			"Poison"
@@ -1401,6 +1450,7 @@
 		"id": "50",
 		"name": "Diglett",
 		"species": "Mole Pokémon",
+		"image":"http://img.pokemondb.net/artwork/diglett.jpg",
 		"type": [
 			"Ground"
 		],
@@ -1429,6 +1479,7 @@
 		"id": "51",
 		"name": "Dugtrio",
 		"species": "Mole Pokémon",
+		"image":"http://img.pokemondb.net/artwork/dugtrio.jpg",
 		"type": [
 			"Ground"
 		],
@@ -1457,6 +1508,7 @@
 		"id": "52",
 		"name": "Meowth",
 		"species": "Scratch Cat Pokémon",
+		"image":"http://img.pokemondb.net/artwork/meowth.jpg",
 		"type": [
 			"Normal"
 		],
@@ -1485,6 +1537,7 @@
 		"id": "53",
 		"name": "Persian",
 		"species": "Classy Cat Pokémon",
+		"image":"http://img.pokemondb.net/artwork/persian.jpg",
 		"type": [
 			"Normal"
 		],
@@ -1513,6 +1566,7 @@
 		"id": "54",
 		"name": "Psyduck",
 		"species": "Duck Pokémon",
+		"image":"http://img.pokemondb.net/artwork/psyduck.jpg",
 		"type": [
 			"Water"
 		],
@@ -1541,6 +1595,7 @@
 		"id": "55",
 		"name": "Golduck",
 		"species": "Duck Pokémon",
+		"image":"http://img.pokemondb.net/artwork/golduck.jpg",
 		"type": [
 			"Water"
 		],
@@ -1569,6 +1624,7 @@
 		"id": "56",
 		"name": "Mankey",
 		"species": "Pig Monkey Pokémon",
+		"image":"http://img.pokemondb.net/artwork/mankey.jpg",
 		"type": [
 			"Fighting"
 		],
@@ -1597,6 +1653,7 @@
 		"id": "57",
 		"name": "Primeape",
 		"species": "Pig Monkey Pokémon",
+		"image":"http://img.pokemondb.net/artwork/primeape.jpg",
 		"type": [
 			"Fighting"
 		],
@@ -1625,6 +1682,7 @@
 		"id": "58",
 		"name": "Growlithe",
 		"species": "Puppy Pokémon",
+		"image":"http://img.pokemondb.net/artwork/growlithe.jpg",
 		"type": [
 			"Fire"
 		],
@@ -1653,6 +1711,7 @@
 		"id": "59",
 		"name": "Arcanine",
 		"species": "Legendary Pokémon",
+		"image":"http://img.pokemondb.net/artwork/arcanine.jpg",
 		"type": [
 			"Fire"
 		],
@@ -1681,6 +1740,7 @@
 		"id": "60",
 		"name": "Poliwag",
 		"species": "Tadpole Pokémon",
+		"image":"http://img.pokemondb.net/artwork/poliwag.jpg",
 		"type": [
 			"Water"
 		],
@@ -1710,6 +1770,7 @@
 		"id": "61",
 		"name": "Poliwhirl",
 		"species": "Tadpole Pokémon",
+		"image":"http://img.pokemondb.net/artwork/poliwhirl.jpg",
 		"type": [
 			"Water"
 		],
@@ -1739,6 +1800,7 @@
 		"id": "62",
 		"name": "Poliwrath",
 		"species": "Tadpole Pokémon",
+		"image":"http://img.pokemondb.net/artwork/poliwrath.jpg",
 		"type": [
 			"Water",
 			"Fighting"
@@ -1769,6 +1831,7 @@
 		"id": "63",
 		"name": "Abra",
 		"species": "Psi Pokémon",
+		"image":"http://img.pokemondb.net/artwork/abra.jpg",
 		"type": [
 			"Psychic"
 		],
@@ -1798,6 +1861,7 @@
 		"id": "64",
 		"name": "Kadabra",
 		"species": "Psi Pokémon",
+		"image":"http://img.pokemondb.net/artwork/kadabra.jpg",
 		"type": [
 			"Psychic"
 		],
@@ -1827,6 +1891,7 @@
 		"id": "65",
 		"name": "Alakazam",
 		"species": "Psi Pokémon",
+		"image":"http://img.pokemondb.net/artwork/alakazam.jpg",		
 		"type": [
 			"Psychic"
 		],
@@ -1856,6 +1921,7 @@
 		"id": "66",
 		"name": "Machop",
 		"species": "Superpower Pokémon",
+		"image":"http://img.pokemondb.net/artwork/machop.jpg",		
 		"type": [
 			"Fighting"
 		],
@@ -1885,6 +1951,7 @@
 		"id": "67",
 		"name": "Machoke",
 		"species": "Superpower Pokémon",
+		"image":"http://img.pokemondb.net/artwork/machoke.jpg",		
 		"type": [
 			"Fighting"
 		],
@@ -1914,6 +1981,7 @@
 		"id": "68",
 		"name": "Machamp",
 		"species": "Superpower Pokémon",
+		"image":"http://img.pokemondb.net/artwork/machamp.jpg",		
 		"type": [
 			"Fighting"
 		],
@@ -1943,6 +2011,7 @@
 		"id": "69",
 		"name": "Bellsprout",
 		"species": "Flower Pokémon",
+		"image":"http://img.pokemondb.net/artwork/bellsprout.jpg",		
 		"type": [
 			"Grass",
 			"Poison"
@@ -1972,6 +2041,7 @@
 		"id": "70",
 		"name": "Weepinbell",
 		"species": "Flycatcher Pokémon",
+		"image":"http://img.pokemondb.net/artwork/weepinbell.jpg",		
 		"type": [
 			"Grass",
 			"Poison"
@@ -2001,6 +2071,7 @@
 		"id": "71",
 		"name": "Victreebel",
 		"species": "Flycatcher Pokémon",
+		"image":"http://img.pokemondb.net/artwork/victreebel.jpg",		
 		"type": [
 			"Grass",
 			"Poison"
@@ -2030,6 +2101,7 @@
 		"id": "72",
 		"name": "Tentacool",
 		"species": "Jellyfish Pokémon",
+		"image":"http://img.pokemondb.net/artwork/tentacool.jpg",		
 		"type": [
 			"Water",
 			"Poison"
@@ -2059,6 +2131,7 @@
 		"id": "73",
 		"name": "Tentacruel",
 		"species": "Jellyfish Pokémon",
+		"image":"http://img.pokemondb.net/artwork/tentacruel.jpg",		
 		"type": [
 			"Water",
 			"Poison"
@@ -2088,6 +2161,7 @@
 		"id": "74",
 		"name": "Geodude",
 		"species": "Rock Pokémon",
+		"image":"http://img.pokemondb.net/artwork/geodude.jpg",		
 		"type": [
 			"Rock",
 			"Ground"
@@ -2118,6 +2192,7 @@
 		"id": "75",
 		"name": "Graveler",
 		"species": "Rock Pokémon",
+		"image":"http://img.pokemondb.net/artwork/graveler.jpg",		
 		"type": [
 			"Rock",
 			"Ground"
@@ -2148,6 +2223,7 @@
 		"id": "76",
 		"name": "Golem",
 		"species": "Megaton Pokémon",
+		"image":"http://img.pokemondb.net/artwork/golem.jpg",		
 		"type": [
 			"Rock",
 			"Ground"
@@ -2178,6 +2254,7 @@
 		"id": "77",
 		"name": "Ponyta",
 		"species": "Fire Horse Pokémon",
+		"image":"http://img.pokemondb.net/artwork/ponyta.jpg",		
 		"type": [
 			"Fire"
 		],
@@ -2206,6 +2283,7 @@
 		"id": "78",
 		"name": "Rapidash",
 		"species": "Fire Horse Pokémon",
+		"image":"http://img.pokemondb.net/artwork/rapidash.jpg",		
 		"type": [
 			"Fire"
 		],
@@ -2234,6 +2312,7 @@
 		"id": "79",
 		"name": "Slowpoke",
 		"species": "Dopey Pokémon",
+		"image":"http://img.pokemondb.net/artwork/slowpoke.jpg",		
 		"type": [
 			"Water",
 			"Psychic"
@@ -2263,6 +2342,7 @@
 		"id": "80",
 		"name": "Slowbro",
 		"species": "Hermit Crab Pokémon",
+		"image":"http://img.pokemondb.net/artwork/slowbro.jpg",		
 		"type": [
 			"Water",
 			"Psychic"
@@ -2292,6 +2372,7 @@
 		"id": "81",
 		"name": "Magnemite",
 		"species": "Magnet Pokémon",
+		"image":"http://img.pokemondb.net/artwork/magnemite.jpg",		
 		"type": [
 			"Electric",
 			"Steel"
@@ -2321,6 +2402,7 @@
 		"id": "82",
 		"name": "Magneton",
 		"species": "Magnet Pokémon",
+		"image":"http://img.pokemondb.net/artwork/magneton.jpg",		
 		"type": [
 			"Electric",
 			"Steel"
@@ -2350,6 +2432,7 @@
 		"id": "83",
 		"name": "Farfetch'd",
 		"species": "Wild Duck Pokémon",
+		"image":"http://img.pokemondb.net/artwork/farfetch'd.jpg",		
 		"type": [
 			"Normal",
 			"Flying"
@@ -2376,6 +2459,7 @@
 		"id": "84",
 		"name": "Doduo",
 		"species": "Twin Bird Pokémon",
+		"image":"http://img.pokemondb.net/artwork/doduo.jpg",		
 		"type": [
 			"Normal",
 			"Flying"
@@ -2405,6 +2489,7 @@
 		"id": "85",
 		"name": "Dodrio",
 		"species": "Triple Bird Pokémon",
+		"image":"http://img.pokemondb.net/artwork/dodrio.jpg",		
 		"type": [
 			"Normal",
 			"Flying"
@@ -2434,6 +2519,7 @@
 		"id": "86",
 		"name": "Seel",
 		"species": "Sea Lion Pokémon",
+		"image":"http://img.pokemondb.net/artwork/seel.jpg",		
 		"type": [
 			"Water"
 		],
@@ -2462,6 +2548,7 @@
 		"id": "87",
 		"name": "Dewgong",
 		"species": "Sea Lion Pokémon",
+		"image":"http://img.pokemondb.net/artwork/dewgong.jpg",		
 		"type": [
 			"Water",
 			"Ice"
@@ -2491,6 +2578,7 @@
 		"id": "88",
 		"name": "Grimer",
 		"species": "Sludge Pokémon",
+		"image":"http://img.pokemondb.net/artwork/grimer.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -2519,6 +2607,7 @@
 		"id": "89",
 		"name": "Muk",
 		"species": "Sludge Pokémon",
+		"image":"http://img.pokemondb.net/artwork/muk.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -2547,6 +2636,7 @@
 		"id": "90",
 		"name": "Shellder",
 		"species": "Bivalve Pokémon",
+		"image":"http://img.pokemondb.net/artwork/shellder.jpg",		
 		"type": [
 			"Water"
 		],
@@ -2575,6 +2665,7 @@
 		"id": "91",
 		"name": "Cloyster",
 		"species": "Bivalve Pokémon",
+		"image":"http://img.pokemondb.net/artwork/cloyster.jpg",		
 		"type": [
 			"Water",
 			"Ice"
@@ -2604,6 +2695,7 @@
 		"id": "92",
 		"name": "Gastly",
 		"species": "Gas Pokémon",
+		"image":"http://img.pokemondb.net/artwork/gastly.jpg",		
 		"type": [
 			"Ghost",
 			"Poison"
@@ -2632,6 +2724,7 @@
 		"id": "93",
 		"name": "Haunter",
 		"species": "Gas Pokémon",
+		"image":"http://img.pokemondb.net/artwork/haunter.jpg",		
 		"type": [
 			"Ghost",
 			"Poison"
@@ -2660,6 +2753,7 @@
 		"id": "94",
 		"name": "Gengar",
 		"species": "Shadow Pokémon",
+		"image":"http://img.pokemondb.net/artwork/gengar.jpg",		
 		"type": [
 			"Ghost",
 			"Poison"
@@ -2688,6 +2782,7 @@
 		"id": "95",
 		"name": "Onix",
 		"species": "Rock Snake Pokémon",
+		"image":"http://img.pokemondb.net/artwork/onix.jpg",		
 		"type": [
 			"Rock",
 			"Ground"
@@ -2716,6 +2811,7 @@
 		"id": "96",
 		"name": "Drowzee",
 		"species": "Hypnosis Pokémon",
+		"image":"http://img.pokemondb.net/artwork/drowzee.jpg",		
 		"type": [
 			"Psychic"
 		],
@@ -2744,6 +2840,7 @@
 		"id": "97",
 		"name": "Hypno",
 		"species": "Hypnosis Pokémon",
+		"image":"http://img.pokemondb.net/artwork/hypno.jpg",		
 		"type": [
 			"Psychic"
 		],
@@ -2772,6 +2869,7 @@
 		"id": "98",
 		"name": "Krabby",
 		"species": "River Crab Pokémon",
+		"image":"http://img.pokemondb.net/artwork/krabby.jpg",		
 		"type": [
 			"Water"
 		],
@@ -2800,6 +2898,7 @@
 		"id": "99",
 		"name": "Kingler",
 		"species": "Pincer Pokémon",
+		"image":"http://img.pokemondb.net/artwork/kingler.jpg",		
 		"type": [
 			"Water"
 		],
@@ -2828,6 +2927,7 @@
 		"id": "100",
 		"name": "Voltorb",
 		"species": "Ball Pokémon",
+		"image":"http://img.pokemondb.net/artwork/voltorb.jpg",		
 		"type": [
 			"Electric"
 		],
@@ -2856,6 +2956,7 @@
 		"id": "101",
 		"name": "Electrode",
 		"species": "Ball Pokémon",
+		"image":"http://img.pokemondb.net/artwork/electrode.jpg",		
 		"type": [
 			"Electric"
 		],
@@ -2884,6 +2985,7 @@
 		"id": "102",
 		"name": "Exeggcute",
 		"species": "Egg Pokémon",
+		"image":"http://img.pokemondb.net/artwork/exeggcute.jpg",		
 		"type": [
 			"Grass",
 			"Psychic"
@@ -2912,6 +3014,7 @@
 		"id": "103",
 		"name": "Exeggutor",
 		"species": "Coconut Pokémon",
+		"image":"http://img.pokemondb.net/artwork/exeggutor.jpg",		
 		"type": [
 			"Grass",
 			"Psychic"
@@ -2940,6 +3043,7 @@
 		"id": "104",
 		"name": "Cubone",
 		"species": "Lonely Pokémon",
+		"image":"http://img.pokemondb.net/artwork/cubone.jpg",		
 		"type": [
 			"Ground"
 		],
@@ -2968,6 +3072,7 @@
 		"id": "105",
 		"name": "Marowak",
 		"species": "Bone Keeper Pokémon",
+		"image":"http://img.pokemondb.net/artwork/marowak.jpg",		
 		"type": [
 			"Ground"
 		],
@@ -2996,6 +3101,7 @@
 		"id": "106",
 		"name": "Hitmonlee",
 		"species": "Kicking Pokémon",
+		"image":"http://img.pokemondb.net/artwork/hitmonlee.jpg",		
 		"type": [
 			"Fighting"
 		],
@@ -3024,6 +3130,7 @@
 		"id": "107",
 		"name": "Hitmonchan",
 		"species": "Punching Pokémon",
+		"image":"http://img.pokemondb.net/artwork/hitmonchan.jpg",		
 		"type": [
 			"Fighting"
 		],
@@ -3052,6 +3159,7 @@
 		"id": "108",
 		"name": "Lickitung",
 		"species": "Licking Pokémon",
+		"image":"http://img.pokemondb.net/artwork/lickitung.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -3079,6 +3187,7 @@
 		"id": "109",
 		"name": "Koffing",
 		"species": "Poison Gas Pokémon",
+		"image":"http://img.pokemondb.net/artwork/koffing.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -3105,6 +3214,7 @@
 		"id": "110",
 		"name": "Weezing",
 		"species": "Poison Gas Pokémon",
+		"image":"http://img.pokemondb.net/artwork/weezing.jpg",		
 		"type": [
 			"Poison"
 		],
@@ -3131,6 +3241,7 @@
 		"id": "111",
 		"name": "Rhyhorn",
 		"species": "Spikes Pokémon",
+		"image":"http://img.pokemondb.net/artwork/rhyhorn.jpg",		
 		"type": [
 			"Ground",
 			"Rock"
@@ -3160,6 +3271,7 @@
 		"id": "112",
 		"name": "Rhydon",
 		"species": "Drill Pokémon",
+		"image":"http://img.pokemondb.net/artwork/rhydon.jpg",		
 		"type": [
 			"Ground",
 			"Rock"
@@ -3189,6 +3301,7 @@
 		"id": "113",
 		"name": "Chansey",
 		"species": "Egg Pokémon",
+		"image":"http://img.pokemondb.net/artwork/chansey.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -3216,6 +3329,7 @@
 		"id": "114",
 		"name": "Tangela",
 		"species": "Vine Pokémon",
+		"image":"http://img.pokemondb.net/artwork/tangela.jpg",		
 		"type": [
 			"Grass"
 		],
@@ -3243,6 +3357,7 @@
 		"id": "115",
 		"name": "Kangaskhan",
 		"species": "Parent Pokémon",
+		"image":"http://img.pokemondb.net/artwork/kangaskhan.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -3268,6 +3383,7 @@
 		"id": "116",
 		"name": "Horsea",
 		"species": "Dragon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/horsea.jpg",		
 		"type": [
 			"Water"
 		],
@@ -3296,6 +3412,7 @@
 		"id": "117",
 		"name": "Seadra",
 		"species": "Dragon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/seadra.jpg",		
 		"type": [
 			"Water"
 		],
@@ -3324,6 +3441,7 @@
 		"id": "118",
 		"name": "Goldeen",
 		"species": "Goldfish Pokémon",
+		"image":"http://img.pokemondb.net/artwork/goldeen.jpg",		
 		"type": [
 			"Water"
 		],
@@ -3352,6 +3470,7 @@
 		"id": "119",
 		"name": "Seaking",
 		"species": "Goldfish Pokémon",
+		"image":"http://img.pokemondb.net/artwork/seaking.jpg",		
 		"type": [
 			"Water"
 		],
@@ -3380,6 +3499,7 @@
 		"id": "120",
 		"name": "Staryu",
 		"species": "Star Shape Pokémon",
+		"image":"http://img.pokemondb.net/artwork/staryu.jpg",		
 		"type": [
 			"Water"
 		],
@@ -3408,6 +3528,7 @@
 		"id": "121",
 		"name": "Starmie",
 		"species": "Mysterious Pokémon",
+		"image":"http://img.pokemondb.net/artwork/starmie.jpg",		
 		"type": [
 			"Water",
 			"Psychic"
@@ -3437,6 +3558,7 @@
 		"id": "122",
 		"name": "Mr. Mime",
 		"species": "Barrier Pokémon",
+		"image":"http://img.pokemondb.net/artwork/mr. mime.jpg",		
 		"type": [
 			"Psychic",
 			"Fairy"
@@ -3465,6 +3587,7 @@
 		"id": "123",
 		"name": "Scyther",
 		"species": "Mantis Pokémon",
+		"image":"http://img.pokemondb.net/artwork/scyther.jpg",		
 		"type": [
 			"Bug",
 			"Flying"
@@ -3493,6 +3616,7 @@
 		"id": "124",
 		"name": "Jynx",
 		"species": "Human Shape Pokémon",
+		"image":"http://img.pokemondb.net/artwork/jynx.jpg",		
 		"type": [
 			"Ice",
 			"Psychic"
@@ -3521,6 +3645,7 @@
 		"id": "125",
 		"name": "Electabuzz",
 		"species": "Electric Pokémon",
+		"image":"http://img.pokemondb.net/artwork/electabuzz.jpg",		
 		"type": [
 			"Electric"
 		],
@@ -3547,6 +3672,7 @@
 		"id": "126",
 		"name": "Magmar",
 		"species": "Spitfire Pokémon",
+		"image":"http://img.pokemondb.net/artwork/magmar.jpg",		
 		"type": [
 			"Fire"
 		],
@@ -3573,6 +3699,7 @@
 		"id": "127",
 		"name": "Pinsir",
 		"species": "Stag Beetle Pokémon",
+		"image":"http://img.pokemondb.net/artwork/pinsir.jpg",		
 		"type": [
 			"Bug"
 		],
@@ -3598,6 +3725,7 @@
 		"id": "128",
 		"name": "Tauros",
 		"species": "Wild Bull Pokémon",
+		"image":"http://img.pokemondb.net/artwork/tauros.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -3623,6 +3751,7 @@
 		"id": "129",
 		"name": "Magikarp",
 		"species": "Fish Pokémon",
+		"image":"http://img.pokemondb.net/artwork/magikarp.jpg",		
 		"type": [
 			"Water"
 		],
@@ -3650,6 +3779,7 @@
 		"id": "130",
 		"name": "Gyarados",
 		"species": "Atrocious Pokémon",
+		"image":"http://img.pokemondb.net/artwork/gyarados.jpg",		
 		"type": [
 			"Water",
 			"Flying"
@@ -3678,6 +3808,7 @@
 		"id": "131",
 		"name": "Lapras",
 		"species": "Transport Pokémon",
+		"image":"http://img.pokemondb.net/artwork/lapras.jpg",		
 		"type": [
 			"Water",
 			"Ice"
@@ -3704,6 +3835,7 @@
 		"id": "132",
 		"name": "Ditto",
 		"species": "Transform Pokémon",
+		"image":"http://img.pokemondb.net/artwork/ditto.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -3728,6 +3860,7 @@
 		"id": "133",
 		"name": "Eevee",
 		"species": "Evolution Pokémon",
+		"image":"http://img.pokemondb.net/artwork/eevee.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -3758,6 +3891,7 @@
 		"id": "134",
 		"name": "Vaporeon",
 		"species": "Bubble Jet Pokémon",
+		"image":"http://img.pokemondb.net/artwork/vaporeon.jpg",		
 		"type": [
 			"Water"
 		],
@@ -3787,6 +3921,7 @@
 		"id": "135",
 		"name": "Jolteon",
 		"species": "Lightning Pokémon",
+		"image":"http://img.pokemondb.net/artwork/jolteon.jpg",		
 		"type": [
 			"Electric"
 		],
@@ -3816,6 +3951,7 @@
 		"id": "136",
 		"name": "Flareon",
 		"species": "Flame Pokémon",
+		"image":"http://img.pokemondb.net/artwork/flareon.jpg",		
 		"type": [
 			"Fire"
 		],
@@ -3845,6 +3981,7 @@
 		"id": "137",
 		"name": "Porygon",
 		"species": "Virtual Pokémon",
+		"image":"http://img.pokemondb.net/artwork/porygon.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -3872,6 +4009,7 @@
 		"id": "138",
 		"name": "Omanyte",
 		"species": "Spiral Pokémon",
+		"image":"http://img.pokemondb.net/artwork/omanyte.jpg",		
 		"type": [
 			"Rock",
 			"Water"
@@ -3901,6 +4039,7 @@
 		"id": "139",
 		"name": "Omastar",
 		"species": "Spiral Pokémon",
+		"image":"http://img.pokemondb.net/artwork/omastar.jpg",		
 		"type": [
 			"Rock",
 			"Water"
@@ -3930,6 +4069,7 @@
 		"id": "140",
 		"name": "Kabuto",
 		"species": "Shellfish Pokémon",
+		"image":"http://img.pokemondb.net/artwork/kabuto.jpg",
 		"type": [
 			"Rock",
 			"Water"
@@ -3959,6 +4099,7 @@
 		"id": "141",
 		"name": "Kabutops",
 		"species": "Shellfish Pokémon",
+		"image":"http://img.pokemondb.net/artwork/kabutops.jpg",
 		"type": [
 			"Rock",
 			"Water"
@@ -3988,6 +4129,7 @@
 		"id": "142",
 		"name": "Aerodactyl",
 		"species": "Fossil Pokémon",
+		"image":"http://img.pokemondb.net/artwork/aerodactyl.jpg",
 		"type": [
 			"Rock",
 			"Flying"
@@ -4014,6 +4156,7 @@
 		"id": "143",
 		"name": "Snorlax",
 		"species": "Sleeping Pokémon",
+		"image":"http://img.pokemondb.net/artwork/snorlax.jpg",		
 		"type": [
 			"Normal"
 		],
@@ -4041,6 +4184,7 @@
 		"id": "144",
 		"name": "Articuno",
 		"species": "Freeze Pokémon",
+		"image":"http://img.pokemondb.net/artwork/articuno.jpg",		
 		"type": [
 			"Ice",
 			"Flying"
@@ -4066,6 +4210,7 @@
 		"id": "145",
 		"name": "Zapdos",
 		"species": "Electric Pokémon",
+		"image":"http://img.pokemondb.net/artwork/zapdos.jpg",		
 		"type": [
 			"Electric",
 			"Flying"
@@ -4091,6 +4236,7 @@
 		"id": "146",
 		"name": "Moltres",
 		"species": "Flame Pokémon",
+		"image":"http://img.pokemondb.net/artwork/moltres.jpg",		
 		"type": [
 			"Fire",
 			"Flying"
@@ -4116,6 +4262,7 @@
 		"id": "147",
 		"name": "Dratini",
 		"species": "Dragon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/dratini.jpg",		
 		"type": [
 			"Dragon"
 		],
@@ -4144,6 +4291,7 @@
 		"id": "148",
 		"name": "Dragonair",
 		"species": "Dragon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/dragonair.jpg",		
 		"type": [
 			"Dragon"
 		],
@@ -4172,6 +4320,7 @@
 		"id": "149",
 		"name": "Dragonite",
 		"species": "Dragon Pokémon",
+		"image":"http://img.pokemondb.net/artwork/dragonite.jpg",		
 		"type": [
 			"Dragon",
 			"Flying"
@@ -4201,6 +4350,7 @@
 		"id": "150",
 		"name": "Mewtwo",
 		"species": "Genetic Pokémon",
+		"image":"http://img.pokemondb.net/artwork/mewtwo.jpg",		
 		"type": [
 			"Psychic"
 		],
@@ -4225,6 +4375,7 @@
 		"id": "151",
 		"name": "Mew",
 		"species": "New Species Pokémon",
+		"image":"http://img.pokemondb.net/artwork/mew.jpg",		
 		"type": [
 			"Psychic"
 		],
